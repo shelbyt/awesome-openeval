@@ -17,3 +17,5 @@ https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-a
 https://github.com/openai/evals
 
 https://arxiv.org/abs/2306.05685
+
+https://github.com/tatsu-lab/alpaca_eval
