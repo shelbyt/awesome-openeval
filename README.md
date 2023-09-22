@@ -19,3 +19,5 @@ https://github.com/openai/evals
 https://arxiv.org/abs/2306.05685
 
 https://github.com/tatsu-lab/alpaca_eval
+
+https://github.com/arthur-ai/bench
